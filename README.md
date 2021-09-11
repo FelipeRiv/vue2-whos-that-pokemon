@@ -24,4 +24,4 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### DEMO
-Open [Link](https://app.netlify.com/sites/pokemonv2fh/overview)
+Open [Link](https://pokemonv2fh.netlify.app/)
